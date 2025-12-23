@@ -1,12 +1,9 @@
 {
     "explorer.confirmDelete": false,
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "python.defaultInterpreterPath": "/usr/bin/python3",
     "emmet.includeLanguages": { "javascript": "javascriptreact"},
     "emmet.triggerExpansionOnTab": true,
-    "code-runner.runInTerminal": true,
-    "omnisharp.loggingLevel": "debug",
     "explorer.confirmDragAndDrop": false,
     "redhat.telemetry.enabled": true,
     "editor.minimap.enabled": false,
@@ -32,5 +29,7 @@
         "git-rebase-todo": "default"
     },
     "workbench.colorTheme": "Tokyo Night",
-    "gitlens.currentLine.enabled": false
+    "gitlens.currentLine.enabled": false,
+    "git.blame.statusBarItem.enabled": false,
+    "explorer.compactFolders": false
 }
