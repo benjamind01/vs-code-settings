@@ -27,5 +27,6 @@
         }
     },
     "gitlens.currentLine.enabled": false,
-    "git.blame.statusBarItem.enabled": false
+    "git.blame.statusBarItem.enabled": false,
+    "explorer.compactFolders": false
 }
