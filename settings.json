@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Tokyo Night Storm",
     "explorer.confirmDelete": false,
     "editor.suggestSelection": "first",
     "python.defaultInterpreterPath": "/usr/bin/python3",
@@ -26,6 +25,10 @@
             "editor.background": "#121a30"
         }
     },
+    "workbench.editorAssociations": {
+        "git-rebase-todo": "default"
+    },
+    "workbench.colorTheme": "Tokyo Night",
     "gitlens.currentLine.enabled": false,
     "git.blame.statusBarItem.enabled": false,
     "explorer.compactFolders": false
