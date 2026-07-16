@@ -1,0 +1,82 @@
+{
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "explorer.confirmDelete": false,
+    "editor.suggestSelection": "first",
+    "emmet.includeLanguages": { "javascript": "javascriptreact"},
+    "emmet.triggerExpansionOnTab": true,
+    "explorer.confirmDragAndDrop": false,
+    "redhat.telemetry.enabled": true,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "trailing",
+    "editor.linkedEditing": true,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "explorer.autoReveal": false,
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.enablePreview": false,
+    "editor.fontFamily": "Jetbrains Mono, Menlo, Monaco, 'Courier New', monospace",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.exclude": {
+		"**/.git": false,
+	},
+    "workbench.colorCustomizations": {
+        "[Tokyo Night Storm]": {
+            "editor.background": "#121a30"
+        }
+    },
+    "gitlens.currentLine.enabled": false,
+    "git.blame.statusBarItem.enabled": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "pylint.interpreter":[
+        "/Users/benjamin/Documents/python-envs/bin/python"
+    ],
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.inlayHints.fontSize": 14,      // ou plus gros
+    "editor.inlayHints.fontFamily": "monospace",
+    "[dockercompose]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        },
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "[github-actions-workflow]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.compactFolders": false,
+    "editor.largeFileOptimizations": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "playwright.runGlobalSetupOnEachRun": false,
+    "playwright.reuseBrowser": false,
+}
